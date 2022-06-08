@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+  border:1px solid black;
+}
